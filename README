@@ -1,7 +1,7 @@
 This is a simple pyton/PIL util to watermark images that exist in a directory...
 
 
-python waterdrop.py [copyright text] [input dir] [output dir]
+python waterdrop.py [copyright text] [input dir] 
 
 
 
